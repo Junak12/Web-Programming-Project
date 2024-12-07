@@ -2,7 +2,8 @@
 
 # Screenshot of The Project some of Page <br>
 ![Screenshot (25)](https://github.com/user-attachments/assets/2151738f-d42a-4184-94c6-c33f7616f472) <br>
-![Screenshot (26)](https://github.com/user-attachments/assets/b5172f49-72da-4bf0-9984-256ff83b5857)
+![Screenshot (26)](https://github.com/user-attachments/assets/b5172f49-72da-4bf0-9984-256ff83b5857) <br>
+![Screenshot (27)](https://github.com/user-attachments/assets/4bcd95c9-8b48-4db6-9c7f-754583ab7ca6) <br>
 
 
 This project is a fitness-focused web application that provides users with various features to enhance their wellness journey. The application has been built using modern web technologies, including React for the frontend and various essential libraries and components for an interactive user experience.
