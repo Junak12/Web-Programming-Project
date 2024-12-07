@@ -66,7 +66,6 @@ The frontend of the application is developed with **React.js** and follows a com
 - **Backend (optional for future implementation):**
   - Node.js (for server-side logic)
   - Express.js (for API routes)
-  - MongoDB/MySQL (for database)
   - <br>
 ## Team Members
 
