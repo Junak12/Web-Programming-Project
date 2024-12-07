@@ -1,6 +1,6 @@
 # Web Programming Project
 
-# Screenshot of The Project some of Page <br>
+# Screenshot of some of Page of The Project <br>
 ![Screenshot (25)](https://github.com/user-attachments/assets/2151738f-d42a-4184-94c6-c33f7616f472) <br>
 ![Screenshot (26)](https://github.com/user-attachments/assets/b5172f49-72da-4bf0-9984-256ff83b5857) <br>
 ![Screenshot (27)](https://github.com/user-attachments/assets/4bcd95c9-8b48-4db6-9c7f-754583ab7ca6) <br>
