@@ -61,3 +61,13 @@ The frontend of the application is developed with **React.js** and follows a com
   - Node.js (for server-side logic)
   - Express.js (for API routes)
   - MongoDB/MySQL (for database)
+-**Team Member:**
+   -Name: S S P Junak
+    -ID:222-115-103
+    -Bath:57(c)
+   -Name: Kanij Fathema
+    -ID:222-115-099
+    -Bath:57(c)
+   -Name: Mustak Ahmed Nishad
+    -ID:222-115-118
+    -Bath:57(c)
