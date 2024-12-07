@@ -31,8 +31,7 @@ The frontend of the application is developed with **React.js** and follows a com
 ## Backend
 
 - While the current project focuses on the frontend, the backend would typically involve handling API requests for user data, workout sessions, pricing, and other dynamic content.
-- The backend can be developed using various technologies, such as **Node.js**, **Express.js**, and a database like **MongoDB** or **MySQL** for storing user information and workout details.
-
+- The backend can be developed using various technologies, such as **Node.js**, **Express.js**. And it will send the Message of my mail from anyother mail
 ## How to Run the Project
 
 1. Clone the repository:
