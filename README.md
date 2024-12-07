@@ -6,17 +6,20 @@ The frontend of the application is developed with React.js and follows a compone
 
 Components:
 
-Navbar: A responsive navigation bar to allow users to easily navigate between sections.
-Hero: A prominent section showcasing the website's key message and offering users a quick overview.
-Workout Sessions: Displays available workout sessions and related information.
-Gallery: Showcases images or videos related to fitness and workouts.
-Pricing: Displays the pricing for different workout or wellness plans.
-Contact: A form or contact section for users to reach out for more information.
-BMICalculator: An interactive feature allowing users to calculate their BMI (Body Mass Index).
-Nutrition And Wellness: A section providing tips and resources related to nutrition and general wellness.
-Footer: Contains additional links and information like social media handles, terms, and privacy policies.
+Navbar: A responsive navigation bar to allow users to easily navigate between sections.<br>
+Hero: A prominent section showcasing the website's key message and offering users a quick overview.<br>
+Workout Sessions: Displays available workout sessions and related information.<br>
+Gallery: Showcases images or videos related to fitness and workouts.<br>
+Pricing: Displays the pricing for different workout or wellness plans.<br>
+Contact: A form or contact section for users to reach out for more information.<br>
+BMICalculator: An interactive feature allowing users to calculate their BMI (Body Mass Index).<br>
+Nutrition And Wellness: A section providing tips and resources related to nutrition and general wellness.<br>
+Footer: Contains additional links and information like social media handles, terms, and privacy policies.<br>
+
+
 Libraries and Tools Used:
 
-React Router: Used for navigating between different components of the application (pages).
-React Toastify: Provides a simple way to display notifications for user interactions (e.g., success or error messages).
-CSS Modules: For styling components, ensuring that each component's styles are scoped locally to avoid global styles conflicts.
+React Router: Used for navigating between different components of the application (pages).<br>
+React Toastify: Provides a simple way to display notifications for user interactions (e.g., success or error messages).<br>
+CSS Modules: For styling components, ensuring that each component's styles are scoped locally to avoid global styles conflicts.<br>
+
